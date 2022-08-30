@@ -1,0 +1,36 @@
+.add_new_admin{
+  a{
+    &:hover{
+      color: #198754 !important;
+    }
+  }
+}
+
+.edit{
+    &:hover{
+        color: #198754 !important;
+    }
+
+}
+
+.mb-63{
+  margin-bottom: 63px !important;
+}
+
+.page-hover{
+  a{
+    &:hover{
+      color: white !important;
+      background-color: #198754 !important;
+    }
+  }
+}
+
+.view_pic{
+  width: 141px;
+  height: 141px;
+}
+
+.fz-14{
+  font-size: 14px;
+}
